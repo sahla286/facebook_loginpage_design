@@ -1,0 +1,130 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    background-color: #3b5998;
+    padding: 20px;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo{
+    color: white;
+    font-size: 40px;
+}
+.logincnt{
+    position: absolute;
+    right: 30px;
+    top: 35px;
+}
+.labels{
+    position: absolute;
+    right: 60px;
+    top: 20px;
+    color: #c7c9cf;
+}
+#l1{
+    margin-right: 40px;
+    font-size: small;
+}
+#l2{
+    margin-right: 45px;
+    font-size: small;
+}
+#lo1{
+    border: solid rgb(164, 53, 1) 1.3px;
+    padding: 4px;
+}
+#lo2{
+    border: solid rgb(164, 53, 1) 1.3px;
+    padding: 4px;
+}
+#lo3{
+    margin: 10px;
+    background-color: #5d729d;
+    color: white;
+    padding: 4px;
+}
+#p1{
+    color: #334a79;
+    font-size: 1.3rem;
+    /* margin-bottom: 7px; */
+    margin-left: -70px; 
+}
+#p2{
+    color: #334a79;
+    font-size: 1.2rem;
+    /* font-weight: 500; */
+    margin-top: 4px;
+    margin-left: -70px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#p3{
+    margin-left: 65px;
+}
+#p4{
+    color: #334a79;
+    font-size: 1.4rem;
+    margin-bottom: 10px; 
+    text-align: left;
+    margin-top: -50px;
+    margin-left: -65px;
+}
+#f1{
+    color: #334a79;
+    /* margin-left: 100px; */
+}
+/* #f1 label {
+    margin-bottom: -5px;
+} */
+#f1 input, #f1 select {
+    margin-bottom: -5px;
+    padding: 2px;
+}
+.fbbody {
+    background: linear-gradient(to top, #b0bbce, rgb(240, 240, 240));
+    padding: 91px;  
+    /* position: relative;  */
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fb-image {
+    width: 100%; 
+    max-width: 600px; 
+    height:250px; 
+    display: block; 
+    margin: 10px; 
+    border-radius: 8px;
+    margin-top: 30px;
+    margin-left: -100px;
+}
+.singup{
+    position: absolute;
+    right: 120px;
+    top: 123px;
+}
+#b1{
+    margin-left: 65px;
+    background-color: #4a8940;
+    border: 0.5px solid rgb(128, 127, 127);
+    color: white;
+    padding: 7px;
+    font-size: 17px;
+    font-weight: 600;
+    cursor:pointer; 
+}
+.create {
+    border-top: 1px solid #707583;
+    color: #666;
+    font-size: 13px;
+    font-weight: bold;
+    margin-top: 10px;
+    padding-top: 15px;
+  }
+  #sp1{
+    color: #334a79;
+  }
+
+
+
+
+
